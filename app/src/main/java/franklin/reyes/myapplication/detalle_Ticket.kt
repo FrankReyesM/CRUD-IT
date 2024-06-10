@@ -44,7 +44,7 @@ class detalle_Ticket : AppCompatActivity() {
         txtNumTicketDet.text = num_ticketRecibido.toString()
         txtEstadoDet.text = estadoRecibida
         txtFechaInicioDet.text = fecha_ticketRecibida
-        txtFechaFinalDet.text = fecha_ticketRecibida
+        txtFechaFinalDet.text = fecha_fin_ticketRecibida
         txtTituloDet.text = tituloRecibido
         txtDescripcionDet.text = descripcionRecibido
         txtAutorDet.text = autorRecibida
